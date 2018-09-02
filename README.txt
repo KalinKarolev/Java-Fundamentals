@@ -1,0 +1,1 @@
+Solutions for the Java OOP Basics Course in SoftUni - June 2018.
